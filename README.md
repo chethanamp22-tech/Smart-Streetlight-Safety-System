@@ -36,7 +36,7 @@ Project by: Team Ideaforge
             1.C.P.Srivarshini
             2.Jananya A.G
             3.Chethana.M
-Institution:Ramaiah University of Applied Sciences,Bengaluru
+Institution: Ramaiah University of Applied Sciences,Bengaluru
 
 
 📄 License
