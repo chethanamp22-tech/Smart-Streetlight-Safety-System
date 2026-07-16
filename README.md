@@ -7,13 +7,20 @@ To develop an automated street light safety system that improves public safety a
 
 🧰 Components
 
-Components and their purpose: 
+Components and their purpose:
+
 1.Arduino Uno R3:Central microcontroller for processing all sensor inputs and controlling outputs.
+
 2.LDR Sensor:Detects ambient light intensity for automatic day/night switching.
+
 3.PIR Sensor:Detects human or vehicle motion near the streetlight.
+
 4.Sound Sensor:Detects loud or abnormal sounds (shouting, alarms, crashes)Active BuzzerProvides audible alert when danger or emergency is detected.
-5.GSM Module (SIM900A):Sends emergency SMS alerts to authorities or contactsEmergency. 
+
+5.GSM Module (SIM900A):Sends emergency SMS alerts to authorities or contactsEmergency.
+
 6.Push Button:Manual trigger for instant safety assistanceLED / StreetlightMain lighting output controlled by the system.
+
 7.Breadboard,Jumper Wires,led,resistor:Circuit connections and prototyping.
 
 ⚙️ Working
