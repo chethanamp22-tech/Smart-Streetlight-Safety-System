@@ -1,4 +1,4 @@
-Smart Streetlight Safety System
+Smart Streetlight Safety System.
 An Arduino-based intelligent street lighting solution for public safety, road visibility automation, and energy efficiency — featuring smart sensors, GSM-based emergency alerts, and a manual emergency button.
 
 📌 Aim
