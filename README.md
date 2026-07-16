@@ -2,9 +2,11 @@ Smart Streetlight Safety System
 An Arduino-based intelligent street lighting solution for public safety, road visibility automation, and energy efficiency — featuring smart sensors, GSM-based emergency alerts, and a manual emergency button.
 
 📌 Aim
+
 To develop an automated street light safety system that improves public safety and road visibility while saving electrical energy using smart sensors and Arduino.
 
 🧰 Components
+
 ComponentPurposeArduino Uno R3Central microcontroller for processing all sensor inputs and controlling outputsLDR SensorDetects ambient light intensity for automatic day/night switchingPIR SensorDetects human or vehicle motion near the streetlightSound SensorDetects loud or abnormal sounds (shouting, alarms, crashes)Active BuzzerProvides audible alert when danger or emergency is detectedGSM Module (SIM900A)Sends emergency SMS alerts to authorities or contactsEmergency Push ButtonManual trigger for instant safety assistanceLED / StreetlightMain lighting output controlled by the systemBreadboard & Jumper WiresCircuit connections and prototyping
 
 ⚙️ Working
